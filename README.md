@@ -3,7 +3,7 @@ Tableau Homework
 
 Information about Citi Bike:
 
-Information of January 2020 in the New Jersey
+Information of January 2021 in the New Jersey area.
 
 For this HW we analyzed one database of Citibike, in which we uncovered the following phenomenoms.
 
